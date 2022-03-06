@@ -89,12 +89,10 @@ def save_qualifying_loans(qualifying_loans):
         if action == "no":
             sys.exit(f"Thank you, have a nice day!")
         else:
-            if action == 'yes':
-        
-                csvpath = Path('./qualifying_loans.csv')
-                save_csv(csvpath, qualifying_loans)
+            if action == 'yes'
+                csvpath = questionary.text("Please enter a filepath for the saved data: (qualifying_loans.csv)").ask()
+                save_csv(Path(csvpath), qualifying_loans)
 
-            print("The qualifying loans have been saved into a .csv file. Have a nice day.")
 
         
         
