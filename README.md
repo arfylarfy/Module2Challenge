@@ -37,10 +37,10 @@ The application will then tell you how many loans you qualify for. If none, you 
 ![0 qualifying loans](https://github.com/arfylarfy/Module2Challenge_/blob/master/data/Screen%20Shots/0%20qualifying%20loans.png)
 
 If you have qualifying loans, it will inform you of how many you qualify for and then prompt the user with a yes or no question asking if they would like to save the list of qualifying loans to a .csv file.
-If the user chooses no, the system responds with "Thank you. Have a nice day." If the user chooses yes, the system responds with "The qualifying loans have been saved into a .csv file. Have a nice day." The user will then be able to access their saved .csv file with their qualifying loans.
+If the user chooses no, the system responds with "Thank you. Have a nice day." If the user chooses yes, the system asks the user to choose a filepath. After filepath is chosen, the system responds with "The qualifying loans have been saved into a .csv file. Have a nice day." The user will then be able to access their saved .csv file with their qualifying loans.
 
 ![Do not save csv file](https://github.com/arfylarfy/Module2Challenge_/blob/master/data/Screen%20Shots/No%20to%20saving%20csv.png)
-![Save csv file](https://github.com/arfylarfy/Module2Challenge_/blob/master/data/Screen%20Shots/Yes%20save%20csv.png)
+![Save csv file](https://github.com/arfylarfy/Module2Challenge/blob/master/data/Screen%20Shots/Save%20CSV%20file.png)
 
 ## Contributors
 
