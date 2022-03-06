@@ -44,7 +44,7 @@ If the user chooses no, the system responds with "Thank you. Have a nice day." I
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Aranda Furth, arandafurth@gmail.com
 
 ---
 
