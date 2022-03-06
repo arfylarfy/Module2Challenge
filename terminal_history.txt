@@ -1,0 +1,502 @@
+   50  conda activate dev
+   51  python module1.py
+   52  python module1.py
+   53  python module1.py
+   54  python module1.py
+   55  python module1.py
+   56  python module1.py
+   57  python module1.py
+   58  python module1.py
+   59  python module1.py
+   60  python module1.py
+   61  python module1.py
+   62  python module1.py
+   63  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   64  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   65  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   66  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   67  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   68  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   69  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   70  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   71  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   72  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   73  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   74  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   75  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+   76  cd desktop
+   77  cd fintech-workspace
+   78  cd python_project
+   79  conda activate dev
+   80  python m1loan_analyzer.py
+   81  python module1.py
+   82  python M1loan_analyzer.py
+   83  cd desktop
+   84  cd desktop
+   85  conda activate dev
+   86  python m1loan_analyzer.py
+   87  python M1loan_analyzer.py
+   88  conda activate dev
+   89  pip -V
+   90  \pip freeze
+   91  pip install fire
+   92  pip install questionary
+   93  python M1loan_analyzer.py
+   94  conda activate dev
+   95  cd desktop
+   96  python m1loan_analyzer.py
+   97  python m1loan_analyzer.py
+   98  python m1loan_analyzer.py
+   99  python m1loan_analyzer.py
+  100  python m1loan_analyzer.py
+  101  python m1loan_analyzer.py
+  102  python m1loan_analyzer.py
+  103  python m1loan_analyzer.py
+  104  python m1loan_analyzer.py
+  105  python m1loan_analyzer.py
+  106  python m1loan_analyzer.py
+  107  python m1loan_analyzer.py
+  108  python m1loan_analyzer.py
+  109  python m1loan_analyzer.py
+  110  python m1loan_analyzer.py
+  111  python m1loan_analyzer.py
+  112  python m1loan_analyzer.py
+  113  python m1loan_analyzer.py
+  114  python m1loan_analyzer.py
+  115  cd fintech_workspace
+  116  cd fintech-workspace
+  117  cd python_project
+  118  python app.py
+  119  python app.py
+  120   /usr/bin/env /usr/local/bin/python3 /Users/arfylarfy/.vscode/extensions/ms-python.python-2022.0.1814523869/pythonFiles/lib/python/debugpy/launcher 53496 -- /Users/arfylarfy/Desktop/GitHub_Upload/app.py 
+  121   cd /Users/arfylarfy/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/arfylarfy/.vscode/extensions/ms-python.python-2022.0.1814523869/pythonFiles/lib/python/debugpy/launcher 53582 -- /Users/arfylarfy/Desktop/GitHub_Upload/app.py 
+  122   cd /Users/arfylarfy/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/arfylarfy/.vscode/extensions/ms-python.python-2022.0.1814523869/pythonFiles/lib/python/debugpy/launcher 55980 -- /Users/arfylarfy/Desktop/GitHub_Upload/Class3.py 
+  123   cd /Users/arfylarfy/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/arfylarfy/.vscode/extensions/ms-python.python-2022.0.1814523869/pythonFiles/lib/python/debugpy/launcher 56032 -- /Users/arfylarfy/Desktop/GitHub_Upload/Class3.py 
+  124   /usr/bin/env /usr/local/bin/python3 /Users/arfylarfy/.vscode/extensions/ms-python.python-2022.0.1814523869/pythonFiles/lib/python/debugpy/launcher 56004 -- /Users/arfylarfy/Desktop/GitHub_Upload/Class3.py 
+  125  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  126  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  127  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+  128  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+  129  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+  130  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module1.py
+  131  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  132  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  133  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  134  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  135  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  136  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  137  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  138  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  139  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  140  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  141  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  142  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  143  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  144  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  145  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  146  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  147  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  148  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  149  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  150  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  151  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  152  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  153  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  154  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  155  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  156  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  157  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  158  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  159  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  160  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  161  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  162  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  163  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  164  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  165  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  166  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  167  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  168  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  169  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  170  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  171  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  172  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  173  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  174  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  175  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  176  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  177  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  178  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Module2_User_Stories.py
+  179  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  180  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  181  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  182  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  183  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  184  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  185  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  186  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  187  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  188  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  189  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  190  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  191  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  192  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  193  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  194  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  195  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  196  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  197  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  198  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  199  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  200  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  201  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  202  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  203  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  204  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  205  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  206  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  207  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  208  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  209  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  210  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  211  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  212  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  213  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  214  /usr/local/bin/python3 /Users/arfylarfy/Desktop/M1loan_analyzer.py
+  215  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/app.py
+  216  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/app.py
+  217  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/app.py
+  218  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/app.py
+  219  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/app.py
+  220  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/app.py
+  221  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/app.py
+  222  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/app.py
+  223  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/app.py
+  224  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/app.py
+  225  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/app.py
+  226  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/app.py
+  227  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Class3.py
+  228  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Class3.py
+  229  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Class3.py
+  230  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Class3.py
+  231  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Class3.py
+  232  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Class3.py
+  233  /usr/local/bin/python3 /Users/arfylarfy/Desktop/GitHub_Upload/Class3.py
+  234  cd desktop
+  235  conda activate dev
+  236  python class_work.py
+  237  python class_work.py
+  238  pip install fire
+  239  cd fintech-workspace
+  240  python cli.py
+  241  python cli.py
+  242  python cli.py
+  243  python cli.py
+  244  python cli.py
+  245  python cli.py
+  246  python cli.py --pants=true
+  247  cd week 2
+  248  ls
+  249  cd WEEK 2
+  250  pwd
+  251  python cli.py
+  252  cd python_project
+  253  ..
+  254  ls
+  255  cd tilda
+  256  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  257  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  258  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  259  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  260  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  261  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  262  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  263  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  264  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  265  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  266  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  267  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  268  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  269  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  270  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  271  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  272  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  273  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  274  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  275  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  276  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  277  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  278  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  279  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  280  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  281  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  282  /usr/local/bin/python3 /Users/arfylarfy/Desktop/Class_work.py
+  283  /usr/local/bin/python3
+  284  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_2/cli.py
+  285  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_2/cli.py
+  286  conda activate dev
+  287  cd desktop
+  288  cd fintech-workspace
+  289  cd week 2
+  290  ls
+  291  cd week_2
+  292  python cli.py
+  293  pip install fire
+  294  python cli.py
+  295  python cli.py --pants=true
+  296  cd desktop
+  297  cd fintech-workspace
+  298  cd week_1
+  299  conda activate dev
+  300  python m1loan_analyzer.py
+  301  python m1loan_analyzer.py
+  302  conda activate dev
+  303  conda list pandas
+  304  conda list jupyterlab
+  305  jupyter lab
+  306  conda activate dev
+  307  python -m ipykernel install --user --name dev --display-name "Pythong (dev)"
+  308  jupyter lab
+  309  jupyer lab
+  310  jupyter lab
+  311  conda activate dev
+  312  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  313  jupyter lab
+  314  conda activate dev
+  315  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  316  jupyter lab
+  317  conda activate dev
+  318  jupyter lab
+  319  conda activate dev
+  320  pip install nbclassic
+  321  jupyter nbclassic
+  322  jupyter server
+  323  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  324  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  325  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  326  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  327  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  328  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  329  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  330  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  331  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  332  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  333  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  334  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  335  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  336  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  337  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  338  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  339  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  340  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  341  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  342  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  343  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  344  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  345  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  346  /usr/local/bin/python3 /Users/arfylarfy/Desktop/FinTech-Workspace/WEEK_1/M1loan_analyzer.py
+  347  /usr/local/bin/python3 "/Users/arfylarfy/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  348  /Users/arfylarfy/opt/anaconda3/envs/dev/bin/python "/Users/arfylarfy/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  349  conda activate dev
+  350  conda install "nbclassic>=0.2.8"
+  351  jupyter lab
+  352  /usr/local/bin/python3 "/Users/arfylarfy/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  353  /Users/arfylarfy/opt/anaconda3/bin/python "/Users/arfylarfy/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  354  /Users/arfylarfy/opt/anaconda3/bin/python "/Users/arfylarfy/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  355  /Users/arfylarfy/opt/anaconda3/bin/python "/Users/arfylarfy/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  356  /usr/local/bin/python3 "/Users/arfylarfy/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  357  /Users/arfylarfy/opt/anaconda3/envs/dev/bin/python "/Users/arfylarfy/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  358  /Users/arfylarfy/opt/anaconda3/envs/dev/bin/python "/Users/arfylarfy/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  359  /Users/arfylarfy/opt/anaconda3/envs/dev/bin/python "/Users/arfylarfy/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  360  /Users/arfylarfy/opt/anaconda3/envs/dev/bin/python "/Users/arfylarfy/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  361  source /Users/arfylarfy/opt/anaconda3/bin/activate
+  362  conda activate dev
+  363  /Users/arfylarfy/opt/anaconda3/envs/dev/bin/python "/Users/arfylarfy/Downloads/Starter_Code 2/loan_qualifier_app/app.py"
+  364  conda activate dev
+  365  pip install fire
+  366  pip install pandas
+  367  pip install fire
+  368  conda activate dev
+  369  cd desktop
+  370  cd fintech-workspace
+  371  cd module 2 challenge
+  372  python app.py
+  373  cd python_project
+  374  python app.py
+  375  cd module_2_challenge
+  376  python app.py
+  377  ls module_2_challenge
+  378  cd starter_code 2
+  379  cd starter_code_2
+  380  cd loan_qualifier_app
+  381  python app.py
+  382  csvpath
+  383  history 50 > terminal_history.txt
+  384  history 50 > terminal_history.txt
+  385  conda activate dev
+  386  history 50 > terminal_history.txt
+  387  cd desktop
+  388  cd fintech-workspace
+  389  cd python_project
+  390  cd module_2_challenge
+  391  cd starter_code_2
+  392  cd loan_qualifier_app
+  393  python app.py
+  394  python app.py
+  395  history 50 > terminal_history.txt
+  396  history
+  397  history 50
+  398  clear
+  399  history 50
+  400  clear
+  401  history 50 > terminal_history.txt
+  402  ls
+  403  finder
+  404  open
+  405  pwd
+  406  cd desktop
+  407  cd .. 
+  408  cd ..
+  409  cd ..
+  410  cd ../..
+  411  mkdir
+  412  mkdir New_folder
+  413  ls
+  414  cd new_folder
+  415  git clone https://github.com/arfylarfy/Test/blob/main/.gitignore
+  416  git clone https://github.com/arfylarfy/Test
+  417  ls
+  418  gitstatus
+  419  git status
+  420  cd test
+  421  git status
+  422  git status
+  423  git pull
+  424  ls
+  425  git status
+  426  git status
+  427  git add .
+  428  git commit -m "Update README"
+  429  git status
+  430  git push origin main
+  431  git push origin main
+  432  git push origin main
+  433  ls –al ~/.ssh
+  434  ls -al ~/.ssh
+  435  ssh-keygen –t rsa –b 4096 –C "YOURGITHUBEMAIL@PLACEHOLDER.NET"
+  436  ssh-keygen –t rsa –b 4096 –C "a.curtman@gmail.com"
+  437  ssh-keygen –t rsa –b 4096 –C "a.curtman@gmail.com"
+  438  ssh-keygen -t rsa -b 4096 -C "a.curtman@gmail.com"
+  439  eval "$(ssh-agent -s)"
+  440  ssh-add ~/.ssh/id_rsa
+  441  pbcopy < ~/.ssh/id_rsa.pub
+  442  ssh -Tgit@github.com
+  443  ssh -T git@github.com
+  444  cd desktop
+  445  cd new_folder
+  446  cd test
+  447  ls
+  448  git status
+  449  git push origin main
+  450  git push origin main
+  451  cd ..
+  452  mkdir test
+  453  mkdir test2
+  454  cd test2
+  455  git init
+  456  touch README.md
+  457  git status
+  458  git add .
+  459  git status
+  460  git commit -m "added README"
+  461  git push origin main
+  462  git push
+  463  git push origin main
+  464  cd ..
+  465  cd test
+  466  ls
+  467  git status
+  468  git status
+  469  git push origin main
+  470  git push origin main
+  471  git push origin main
+  472  git push origin main
+  473  git push origin main
+  474  clear
+  475  conda activate dev
+  476  jupyter lab
+  477  history > 50
+  478  history 50 > terminal_history.txt
+  479  conda activate dev
+  480  ls -al ~/.ssh
+  481  history
+  482  history 50
+  483  history 50 > terminal.txt
+  484  history
+  485  history 50
+  486  history 50 > terminal_history.txt
+  487  pbcopy < ~/.ssh/id_rsa.pub
+  488  ssh -Tgit@github.com
+  489  ssh -T git@github.com
+  490  git status
+  491  git init
+  492  git add .
+  493  cd desktop
+  494  cd fintech-workspace
+  495  cd python_project
+  496  cd module_2_challenge
+  497  cd starter_code_2
+  498  cd loan_qualifier_app
+  499  git commit -m "initial commit"
+  500  git remote add origin https://github.com/arfylarfy/Module2Challenge_
+  501  git push -u origin main
+  502  git init
+  503  git add .
+  504  git commit -m "initial commit"
+  505  git remote add origin https://github.com/arfylarfy/Module2Challenge_.git
+  506  git push -u origin main
+  507  git push origin main
+  508  clear
+  509  git init
+  510  git add .
+  511  git commit -m "initial commit"
+  512  git remote add origin https://github.com/arfylarfy/Module2Challenge_
+  513  git push -u origin main
+  514  conda activate dev
+  515  cd desktop
+  516  cd fintech-workspace
+  517  cd python-project
+  518  cd python_project
+  519  cd module_2_challenge
+  520  cd starter_code_2
+  521  cd loan_qualifier_app
+  522  git init
+  523  git add . 
+  524  git commit -m "initial commit"
+  525  git remote add origin https://github.com/arfylarfy/Module2Challenge_.git
+  526  git clone https://github.com/arfylarfy/Module2Challenge_.git
+  527  git status
+  528  git add .
+  529  git commit "loan_qualifier_app"
+  530  cd desktop
+  531  cd fintech-workspace
+  532  cd python_project
+  533  cd starter_code_2
+  534  cd loan_qualifer_app
+  535  cd module_2_challenge
+  536  cd starter_code_2
+  537  cd loan_qualifier_app
+  538  ls
+  539  git init
+  540  git add .
+  541  git status
+  542  git commit -m "First commit"
+  543  git remote add origin https://github.com/arfylarfy/Module2Challenge_.git
+  544  git push -u origin master
+  545  git push -u origin master
+  546  git push -u origin master
+  547  git push -u origin master
+  548  git push -u origin master
+  549  history 50 > terminal_history.txt
+  550  history
+  551  history 50 > terminal_history.txt
